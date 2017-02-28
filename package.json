@@ -24,6 +24,8 @@
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
     "node-require-directory": "^1.0.2",
-    "promise": "^7.1.1"
+    "node-rest-client": "^2.5.0",
+    "promise": "^7.1.1",
+    "rss-parser": "^2.5.2"
   }
 }
